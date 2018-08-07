@@ -6,6 +6,9 @@
  1. Ubuntu : 16.04
  2. Qt : 5.7.1 Qt creator : 4.2.1
  3. ROS : kinetic
+## User guide
+ 1. commit "roscore" in your terminal
+ 2. commit "rosrun ros_qt_template main" in your termianl
 ## referenect
  1. [how to change Cmakelist.txt](https://stackoverflow.com/questions/25989448/implementing-qt-project-through-cmake)
  2. [Official website](http://doc.qt.io/qt-5/cmake-manual.html)
