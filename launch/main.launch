@@ -1,0 +1,3 @@
+<launch>
+   <node pkg="ros_qt_template" type="main" name="main" output="screen" required="true" />
+</launch>
